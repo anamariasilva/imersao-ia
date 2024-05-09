@@ -8,6 +8,8 @@
 
 ### Referências
 - [Imersão IA_](https://www.alura.com.br/imersao-ia-google-gemini)
+- Livro Inteligência Artificial e ChatGPT (Da revolução dos modelos de IA generativa à Engenharia de Prompt) - Casa do Código
+- Livro Engenharia de Prompt para Devs - Casa do Código
 
 
 
