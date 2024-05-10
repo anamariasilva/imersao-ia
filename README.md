@@ -7,7 +7,7 @@
 - Aula 01: Mergulhando no Gemini, a IA do Google
 - Aula 02: Melhores técnicas em Engenharia de Prompt
 - Aula 03: Explorando os parâmetros do Google AI Studio
-- Aula 04: 
+- Aula 04: Criando seu próprio chatbot com a Gemini API no Google Colab
 
 ### Referências
 - [Imersão IA_](https://www.alura.com.br/imersao-ia-google-gemini)
