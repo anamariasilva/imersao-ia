@@ -1,4 +1,4 @@
-![https://www.alura.com.br/assets/img/imersoes/imersao-ia-google-gemini/share.1715192575.png]
+![Banner da Imersão IA Alura + Google])https://www.alura.com.br/assets/img/imersoes/imersao-ia-google-gemini/share.1715192575.png)
 
 # Imersão IA Alura + Google
 ## Imersão Inteligência Artificial 2ª Edição
@@ -7,6 +7,7 @@
 - Aula 01: Mergulhando no Gemini, a IA do Google
 - Aula 02: Melhores técnicas em Engenharia de Prompt
 - Aula 03: Explorando os parâmetros do Google AI Studio
+- Aula 04: 
 
 ### Referências
 - [Imersão IA_](https://www.alura.com.br/imersao-ia-google-gemini)
