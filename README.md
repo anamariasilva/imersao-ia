@@ -1,4 +1,4 @@
-![Banner da Imersão IA Alura + Google])https://www.alura.com.br/assets/img/imersoes/imersao-ia-google-gemini/share.1715192575.png)
+![Banner da Imersão IA Alura + Google](https://www.alura.com.br/assets/img/imersoes/imersao-ia-google-gemini/share.1715192575.png)
 
 # Imersão IA Alura + Google
 ## Imersão Inteligência Artificial 2ª Edição
