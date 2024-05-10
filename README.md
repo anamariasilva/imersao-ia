@@ -1,6 +1,8 @@
+![https://www.alura.com.br/assets/img/imersoes/imersao-ia-google-gemini/share.1715192575.png]
+
 # Imersão IA Alura + Google
 ## Imersão Inteligência Artificial 2ª Edição
-06 a 10 de maio
+06 a 10 de maio 
 
 - Aula 01: Mergulhando no Gemini, a IA do Google
 - Aula 02: Melhores técnicas em Engenharia de Prompt
